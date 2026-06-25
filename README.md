@@ -23,7 +23,7 @@ A production-ready machine learning model library featuring implementations of c
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/machine-learning-models-hub.git
+git clone https://github.com/amori27/machine-learning-models-hub.git
 cd machine-learning-models-hub
 pip install -r requirements.txt
 ```
