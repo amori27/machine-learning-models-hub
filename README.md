@@ -1,4 +1,6 @@
 # Machine Learning Models Hub
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Comprehensive collection of machine learning models including classification, regression, clustering, and ensemble methods using scikit-learn.
 
