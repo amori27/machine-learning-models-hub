@@ -1,7 +1,8 @@
 # Machine Learning Models Hub
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![CI](https://github.com/amori27/machine-learning-models-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/amori27/machine-learning-models-hub/actions/workflows/ci.yml)
 
 A unified scikit-learn wrapper for the most common ML tasks: classification, regression, clustering, and evaluation. Pick a model by name, get a consistent interface, swap and benchmark freely.
 
